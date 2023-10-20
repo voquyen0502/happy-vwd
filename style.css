@@ -46,7 +46,7 @@ img{
 }
 .middle
 {
-  padding: 100px;
+  padding: 10%;
   background: #7CF9F7 ;
   background-image: url('img/.gif') ;
   color: #4AB6B5 ;
@@ -54,7 +54,7 @@ img{
   font-family: Arial, sans-serif;
 }
 .inside {
-  padding: 60px;
+  padding: 6%;
   text-align: center;
   background: #144F4E;
   background-image: url('img/.gif') loop ;
